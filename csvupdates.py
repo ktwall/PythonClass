@@ -1,6 +1,6 @@
 import pandas as pd
 import random
-import string 
+import string cla
 
 #Load the metrics.csv" file
 input_file = "MonthlyStoreMetrics.csv"
