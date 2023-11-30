@@ -12,5 +12,5 @@ df = pd.DataFrame(
     }
 )
 
-print(df)
+df.to_csv("mynewfile.csv", index=False)
 
